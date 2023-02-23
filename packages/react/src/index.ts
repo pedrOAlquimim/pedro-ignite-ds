@@ -1,1 +1,1 @@
-console.log('Hello world!')
+import { colors } from '@ignite-ds/tokens'
