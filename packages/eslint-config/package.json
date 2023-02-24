@@ -1,0 +1,10 @@
+{
+  "name": "@ignite-ds/eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "eslint": "^8.34.0"
+  }
+}
