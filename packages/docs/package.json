@@ -1,16 +1,16 @@
 {
-  "name": "docs",
+  "name": "@ignite-ds/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build": "build-storybook"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.19.3",
     "@storybook/addon-actions": "^6.5.12",
