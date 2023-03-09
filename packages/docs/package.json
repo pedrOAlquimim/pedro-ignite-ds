@@ -31,6 +31,7 @@
     "@ignite-ds/react": "*",
     "@ignite-ds/tokens": "*",
     "@ignite-ds/ts-config": "*",
+    "@storybook/addon-a11y": "^6.5.16",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
