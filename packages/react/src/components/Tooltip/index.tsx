@@ -21,3 +21,5 @@ export function Tooltip({ content, children, ...props }: TooltipProps) {
     </TooltipRadix.Provider>
   )
 }
+
+Tooltip.displayName = 'Tooltip'
