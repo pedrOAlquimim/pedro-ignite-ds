@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ds/eslint-config",
+  "name": "@pedro-ignite-ds/eslint-config",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
