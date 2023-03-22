@@ -1,4 +1,4 @@
-import { CheckboxProps, Checkbox, Box, Text } from '@ignite-ds/react'
+import { CheckboxProps, Checkbox, Box, Text } from '@pedro-ignite-ds/react'
 import { Meta, StoryObj } from '@storybook/react'
 import React from 'react'
 

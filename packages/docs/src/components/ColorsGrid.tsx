@@ -1,4 +1,4 @@
-import { colors } from '@ignite-ds/tokens'
+import { colors } from '@pedro-ignite-ds/tokens'
 import { getContrast } from 'polished'
 import React from 'react'
 

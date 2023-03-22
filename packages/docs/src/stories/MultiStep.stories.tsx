@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, MultiStep, MultiStepProps } from '@ignite-ds/react'
+import { Box, MultiStep, MultiStepProps } from '@pedro-ignite-ds/react'
 import React from 'react'
 
 export default {

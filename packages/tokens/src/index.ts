@@ -8,4 +8,4 @@ export * from './line-heights'
 export * from './radii'
 export * from './space'
 
-// import { colors } from '@ignite-ds/tokens'
+// import { colors } from '@pedro-ignite-ds/tokens'

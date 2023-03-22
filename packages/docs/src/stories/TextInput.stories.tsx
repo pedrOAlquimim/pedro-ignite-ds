@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@ignite-ds/react'
+import { Box, Text, TextInput, TextInputProps } from '@pedro-ignite-ds/react'
 import React from 'react'
 
 export default {

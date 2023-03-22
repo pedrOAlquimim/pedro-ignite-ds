@@ -29,10 +29,10 @@
     "vite": "^4.1.4"
   },
   "dependencies": {
-    "@ignite-ds/eslint-config": "*",
-    "@ignite-ds/react": "*",
-    "@ignite-ds/tokens": "*",
-    "@ignite-ds/ts-config": "*",
+    "@pedro-ignite-ds/eslint-config": "*",
+    "@pedro-ignite-ds/react": "*",
+    "@pedro-ignite-ds/tokens": "*",
+    "@pedro-ignite-ds/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "polished": "^4.2.2",
     "react": "^18.2.0",

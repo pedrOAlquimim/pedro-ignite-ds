@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, Button, Tooltip, TooltipProps } from '@ignite-ds/react'
+import { Box, Button, Tooltip, TooltipProps } from '@pedro-ignite-ds/react'
 import React from 'react'
 
 export default {

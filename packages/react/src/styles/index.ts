@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ds/tokens'
+} from '@pedro-ignite-ds/tokens'
 
 export const {
   styled,

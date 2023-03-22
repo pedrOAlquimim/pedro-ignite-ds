@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, BoxProps } from '@ignite-ds/react'
+import { Box, BoxProps } from '@pedro-ignite-ds/react'
 import React from 'react'
 
 export default {
