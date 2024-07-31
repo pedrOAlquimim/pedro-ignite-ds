@@ -1,0 +1,2 @@
+import{A as t}from"./index.c611c4fc.js";import"./index.ce0122d7.js";import"./iframe.be038445.js";import"./index.d5241724.js";import"./jsx-runtime.537a3050.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/pedrOAlquimim.png",alt:"Pedro Alquimim"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","Fallback"];export{c as Fallback,p as Primary,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.0853cc0e.js.map
